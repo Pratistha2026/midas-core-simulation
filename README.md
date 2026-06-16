@@ -1,2 +1,2 @@
-# midas-core-simulation
-JPMorgan Chase Forage Backend Simulation using Spring Boot, Kafka, REST APIs
+# Midas
+Project repo for the JPMC Advanced Software Engineering Forage program
